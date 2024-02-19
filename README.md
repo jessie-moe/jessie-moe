@@ -6,7 +6,6 @@
 -  Python 3 PCEP certification, and compTIA A+ certs as well
 - 💞️ I’m looking to collaborate on ...anything that helps my coding, and cybersecurity.
 - 📫 How to reach me ...jessie.moe@email.phoenix.edu
-- jessie.moe.2024@gmail.com
 -  gitHub jessie-moe
 - 😄 Pronouns: ... he/him/his
 - ⚡ Fun fact: ... I have been to every state in U.S.A west of the Mississippi river
